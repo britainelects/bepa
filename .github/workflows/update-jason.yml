@@ -13,7 +13,7 @@ jobs:
 
       - name: Fetch JSON from Google Apps Script
         run: |
-          curl -L 'https://script.google.com/macros/s/AKfycbznTj5kkdql_hMOCf7vm3lghs5PO0eDHHgWy3Js37XtywJRiNTqEqlxXUsSgL4qxhfPkA/exec' -o data.json
+          curl -L 'https://script.google.com/macros/s/AKfycbxh396H1qpduJ7XM1wI0jegvbotCkpx21xa65vQwbBj5Y4djDChKBVRlRqwr9wUMh0ptA/exec' -o data.json
 
       - name: Commit and Push if Changed
         run: |
