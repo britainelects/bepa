@@ -1,8 +1,5 @@
 {
-  "title": "Your hosted JSON",
-  "description": "Replace this with your own data or paste the JSON you want hosted and I will push it.",
-  "items": [
-    { "id": 1, "name": "Example A" },
-    { "id": 2, "name": "Example B" }
-  ]
+  "annotate": {
+    "notes": "Last Update: 18.03.2021"
+  }
 }
