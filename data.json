@@ -1,11 +1,1 @@
-  {
-    "title": "This is a test using Google Sheets",
-    "describe": {
-      "intro": "God almighty this has been a struggle",
-      "byline": "<span style=\"line-height:2; background-color:#f0f0f0; padding:1px 3px; border-radius:4px\">last updated 01-Dec-25</span>",
-      "source-name": "hello"
-    },
-    "annotate": {
-      "notes": "But I'm glad we're here !"
-    }
-  }
+<!DOCTYPE html><html><head><link rel="shortcut icon" href="//ssl.gstatic.com/docs/script/images/favicon.ico"><title>Error</title><style type="text/css" nonce="0SQ-SFclB54UmO9Gw7ONvQ">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style="margin:20px"><div><img alt="Google Apps Script" src="//ssl.gstatic.com/docs/script/images/logo.png"></div><div style="text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px">TypeError: Cannot read properties of null (reading &#39;getLastRow&#39;) (line 10, file &quot;Code&quot;)</div></body></html>
