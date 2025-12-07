@@ -1,11 +1,5 @@
-  {
-    "title": "no",
-    "describe": {
-      "intro": "Ben Walker",
-      "source-name": "hello"
-    },
-    "annotate": {
-      "notes": "1234.3xc",
-      "byline": "asda"
-    }
+{
+  "annotate": {
+    "notes": "Last Update: 18.03.2021"
   }
+}
