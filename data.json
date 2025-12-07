@@ -1,1 +1,9 @@
-{"GoogleSheetData":[["notes","byline","chart","source","title"],["no","Ben Walker","1234.3xc","asda","hello"]]}
+[
+  {
+    "notes": "no",
+    "byline": "Ben Walker",
+    "chart": "1234.3xc",
+    "source": "asda",
+    "title": "hello"
+  }
+]
