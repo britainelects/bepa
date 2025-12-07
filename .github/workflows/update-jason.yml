@@ -1,0 +1,23 @@
+name: Update JSON from Google Apps Script
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Every day at midnight UTC
+  workflow_dispatch:       # Allow manual triggers
+
+jobs:
+  fetch-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch JSON from Google Apps Script
+        run: |
+          curl -L 'https://script.google.com/macros/s/AKfycbznTj5kkdql_hMOCf7vm3lghs5PO0eDHHgWy3Js37XtywJRiNTqEqlxXUsSgL4qxhfPkA/exec' -o data.json
+
+      - name: Commit and Push if Changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data.json
+          git diff --cached --quiet || (git commit -m "Update data.json [automated]" && git push)
