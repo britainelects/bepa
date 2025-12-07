@@ -1,4 +1,5 @@
-[
+{
+  "annotate": {
   {
     "notes": "no",
     "byline": "Ben Walker",
@@ -6,4 +7,4 @@
     "source": "asda",
     "title": "hello"
   }
-]
+}
