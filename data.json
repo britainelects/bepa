@@ -1,9 +1,13 @@
 [
   {
     "title": "This is a test using Google Sheets",
-    "describe.intro": "God almighty this has been a struggle",
-    "annotate.notes": "But I'm glad we're here !",
-    "describe.byline": "<span style=\"line-height:2; background-color:#f0f0f0; padding:1px 3px; border-radius:4px\">last updated 01-Dec-25</span>",
-    "describe.source-name": "hello"
+    "describe": {
+      "intro": "God almighty this has been a struggle",
+      "byline": "<span style=\"line-height:2; background-color:#f0f0f0; padding:1px 3px; border-radius:4px\">last updated 01-Dec-25</span>",
+      "source-name": "hello"
+    },
+    "annotate": {
+      "notes": "But I'm glad we're here !"
+    }
   }
 ]
