@@ -1,10 +1,13 @@
-{
-  "annotate": {
+[
   {
-    "notes": "no",
-    "byline": "Ben Walker",
-    "chart": "1234.3xc",
-    "source": "asda",
-    "title": "hello"
+    "title": "no",
+    "describe": {
+      "intro": "Ben Walker",
+      "source-name": "hello"
+    },
+    "annotate": {
+      "notes": "1234.3xc",
+      "byline": "asda"
+    }
   }
-}
+]
