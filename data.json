@@ -1,11 +1,1 @@
-  {
-    "title": "no",
-    "describe": {
-      "intro": "Ben Walker",
-      "source-name": "hello"
-    },
-    "annotate": {
-      "notes": "1234.3xc",
-      "chart": "<span style=\"line-height:2; background-color:#f0f0f0; padding:1px 3px; border-radius:4px\">last updated 01-Dec-25</span>"
-    }
-  }
+{"GoogleSheetData":[["title","describe.intro","annotate.notes","describe.byline","describe.source-name"],["no","Ben Walker","1234.3xc","<span style=\"line-height:2; background-color:#f0f0f0; padding:1px 3px; border-radius:4px\">last updated 01-Dec-25</span>","hello"]]}
