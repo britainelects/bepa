@@ -1,11 +1,11 @@
 {
-  "title": "Hello internet, this is a test",
+  "title": "",
   "describe": {
-    "intro": "A whole day spent on getting the metadata right. The things I do for you",
-    "byline": "<span style=\"line-height:2; background-color:#f0f0f0; padding:1px 3px; border-radius:4px\">last updated: silly hours</span>",
-    "source-name": "lol"
+    "intro": "",
+    "byline": "<span style=\"line-height:2; background-color:#f0f0f0; padding:1px 3px; border-radius:4px\">last updated: 09-Dec-25</span>",
+    "source-name": "Britain Elects"
   },
   "annotate": {
-    "notes": "But I'm glad we're here !"
+    "notes": ""
   }
 }
